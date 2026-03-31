@@ -110,7 +110,7 @@ function App() {
       <header className="border-soft bg-primary-soft sticky top-0 z-20 border-b backdrop-blur-xl transition-colors">
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-3 md:px-10">
           <span className="text-primary text-sm font-semibold tracking-tight">
-            Yasatsawin Panyawai
+            Portfolio
           </span>
           <nav className="text-secondary hidden items-center gap-6 text-sm md:flex">
             <a href="#hero" className="transition hover:brightness-110">

@@ -8,6 +8,8 @@ import project1 from './Photo/Project-1.png'
 import project2 from './Photo/Project-2.png'
 import project3 from './Photo/Project-3.png'
 import project4 from './Photo/Project-4.JPG'
+import project5 from './Photo/Project-5.png'
+import project6 from './Photo/Project-6.png'
 
 
 function App() {
@@ -70,12 +72,21 @@ function App() {
     },
     {
       id: 5,
-      name: 'RLC Circuit Simulator',
-      description: 'Simulation tool for AC circuit analysis.',
+      name: 'Lukchang Open map',
+      description: 'Project for tell incident in Chiang mai University in crowdsourcing formation',
       category: 'academic',
-      techStack: ['JavaScript', 'HTML', 'CSS'],
-      githubLink: 'https://github.com/yourusername/rlc-simulator',
-      image: 'https://via.placeholder.com/400',
+      techStack: ['SvelteKit', 'Bun', 'Podman', 'Supabase'],
+      githubLink: 'https://github.com/Lukchang-Open-Map/Lukchang-Open-Map.git',
+      image: project5,
+    },
+    {
+      id: 6,
+      name: 'SANGSOM',
+      description: 'Project for do group basic ecommerce website to sell Sneakers',
+      category: 'academic',
+      techStack: ['HTML', 'CSS', 'Java Script'],
+      githubLink: 'https://github.com/FlukeKS/SangSom.git',
+      image: project6,
     },
   ]
 

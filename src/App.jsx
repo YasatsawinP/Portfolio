@@ -214,7 +214,7 @@ function App() {
 
       <footer className="border-soft bg-secondary-soft border-t py-10 backdrop-blur-xl transition-colors">
         <div className="text-secondary mx-auto flex w-full max-w-6xl items-center justify-between px-6 text-sm md:px-10">
-          <span className="text-primary font-medium">Yasatsawin Panyawai</span>
+          <span className="text-primary font-medium">Portfolio of Yasatsawin Panyawai</span>
           <span>© 2026</span>
         </div>
       </footer>
